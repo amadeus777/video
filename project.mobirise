@@ -25,7 +25,10 @@
     "uniqCompNum": 11,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/1007-128x85.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 14,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -319,7 +319,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-b",
+          "_anchor": "msg-box7-d",
           "_params": {
             "imageSize": 50,
             "paddingTop": "6",
@@ -348,7 +348,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=Ew2m-AObepM",
+              "src": "https://www.youtube.com/watch?v=BBPXU94Wl40",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -359,7 +359,7 @@
               "size": 250
             }
           },
-          "title": "ПРОМО РОЛИК",
+          "title": "АНИМАЦИОННЫЙ РОЛИК",
           "text": "Full width intro with adjustable height, background image, parallax effect and a video section. Note that paddings are extended here.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -374,7 +374,7 @@
             "Theme"
           ],
           "_name": "msg-box7",
-          "_anchor": "msg-box7-9",
+          "_anchor": "msg-box7-c",
           "_params": {
             "imageSize": 50,
             "paddingTop": "6",
@@ -403,7 +403,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=Ew2m-AObepM",
+              "src": "https://www.youtube.com/watch?v=KvvwhlcTRcc",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
